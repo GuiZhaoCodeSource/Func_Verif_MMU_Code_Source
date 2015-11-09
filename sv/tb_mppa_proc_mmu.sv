@@ -1,11 +1,10 @@
 /******************************************************************************
- * (C) Copyright 2009 <Company Name> All Rights Reserved
  *
- * MODULE:    name
- * DEVICE:
- * PROJECT:
- * AUTHOR:    jbarbiero
- * DATE:      2011 07:47:27
+ * MODULE:name
+ * DEVICE:MMU
+ * PROJECT:Functional Verification of the MMU of a multiprocessor 
+ * AUTHOR:Gui ZHAO
+ * DATE: 01/04/2015
  *
  * ABSTRACT:
  *
