@@ -1,11 +1,10 @@
 /******************************************************************************
- * (C) Copyright 2009 Kalray All Rights Reserved
  *
  * MODULE:name
- * DEVICE:
- * PROJECT:
- * AUTHOR:jbarbiero
- * DATE:
+ * DEVICE:MMU
+ * PROJECT:Functional Verification of the MMU of a multiprocessor 
+ * AUTHOR:Gui ZHAO
+ * DATE: 01/04/2015
  *
  * ABSTRACT:
  *
